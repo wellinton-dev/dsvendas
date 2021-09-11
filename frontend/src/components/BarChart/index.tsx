@@ -49,7 +49,7 @@ const BartChart = () => {
         ],
       });
     });
-  }, [0]);
+  }, []);
 
   const options = {
     plotOptions: {
